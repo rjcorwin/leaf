@@ -1,6 +1,6 @@
 # Complex Logic Assessment
 
-<complex-logic-assessment>
+<script>
 
   var assessment = new Assessment()
   var results = new Results()
@@ -35,4 +35,4 @@
 
   })
 
-</complex-logic-assessment>
+</script>
